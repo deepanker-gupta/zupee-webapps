@@ -45,7 +45,7 @@ export function Login({
     <>
       <Logo src={logoSrc} />
       <FormLogin
-        title={'Sign into Teleport'}
+        title={'Sign into Deepankers Teleport'}
         authProviders={authProviders}
         auth2faType={auth2faType}
         preferredMfaType={preferredMfaType}
